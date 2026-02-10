@@ -240,7 +240,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-Your Name - [GitHub Profile]
+Your Name - Vyankatesh Bairagi
 
 ## 🙏 Acknowledgments
 
@@ -252,8 +252,7 @@ Your Name - [GitHub Profile]
 ## 📧 Contact
 
 For any queries or suggestions, please reach out:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: vyankateshbairagi.dev@gmail.com
 
 ---
 
